@@ -1,0 +1,22 @@
+.start{
+    background-image: linear-gradient(rgb(247, 162, 247), rgb(134, 206, 248));
+    border: none ;
+    color: none;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    text-shadow: 1px 1px yellow;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.box {
+    width: 500px;
+    height: 361px;
+    background-color: none;
+    box-shadow: 0px 0px 10px 10px rgb(255, 255, 130);   
+    margin: 0 auto;
+}
+
